@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Uncial+Antiqua&display=swap');
+
+body
+{
+    text-align:center;
+    font-size:16px;
+    background-color:#0a0a1a;
+    color:#e8dfc0;
+    font-family:'Crimson Text', serif;
+}
+.title
+{
+    font-family:'Cinzel', serif;
+    font-size:30px;
+}
