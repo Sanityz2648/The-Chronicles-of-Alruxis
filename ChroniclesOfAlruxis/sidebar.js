@@ -14,18 +14,18 @@ document.getElementById('sidebar-container').innerHTML = `
                 <details class="nav-section">
                     <summary class="nav-header">The Primordials</summary>
                     <ul class="nav-list">
-                        <li><a href="#sevreth">Sevreth</a></li>
-                        <li><a href="#sorvaine">Sorvaine</a></li>
-                        <li><a href="#vaidreth">Vaidreth</a></li>
-                        <li><a href="#edrevos">Edrevos</a></li>
-                        <li><a href="#vorakin">Vorakin</a></li>
-                        <li><a href="#aravori">Aravori</a></li>
-                        <li><a href="#sevarus">Sevarus</a></li>
-                        <li><a href="#thessari">Thessari</a></li>
-                        <li><a href="#gorvokul">Gorvokul</a></li>
-                        <li><a href="#zelvari">Zelvari</a></li>
-                        <li><a href="#vorathis">Vorathis</a></li>
-                        <li><a href="#neroval">Neroval</a></li>
+                        <li><a href="sevreth.html">Sevreth</a></li>
+                        <li><a href="sorvaine.html">Sorvaine</a></li>
+                        <li><a href="vaidreth.html">Vaidreth</a></li>
+                        <li><a href="edrevos.html">Edrevos</a></li>
+                        <li><a href="vorakin.html">Vorakin</a></li>
+                        <li><a href="aravori.html">Aravori</a></li>
+                        <li><a href="sevarus.html">Sevarus</a></li>
+                        <li><a href="thessari.html">Thessari</a></li>
+                        <li><a href="gorvokul.html">Gorvokul</a></li>
+                        <li><a href="zelvari.html">Zelvari</a></li>
+                        <li><a href="vorathis.html">Vorathis</a></li>
+                        <li><a href="neroval.html">Neroval</a></li>
                     </ul>
                 </details>
             </div>
